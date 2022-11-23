@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "863699937593",
+    "project_id": "star-walk-4f185",
+    "storage_bucket": "star-walk-4f185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863699937593:android:8af59506f0676e30c4e0e8",
+        "android_client_info": {
+          "package_name": "com.mycompany.starwalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863699937593-skf0bmcj8jtl5pkve0cmhvc09c7712dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.starwalk",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "863699937593-a84o2233gva8pe183gdpkap8kmi5da6e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKwgBJQ1iJyef4JAPc_QvpGBFfgE1whA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863699937593-a84o2233gva8pe183gdpkap8kmi5da6e.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "863699937593-e7vqj9oj8b0no6ikk6iadj94puojcdgm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.starwalk"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
